@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+#Final Output
+
+
+![darkmode](https://github.com/user-attachments/assets/9b9eaeb3-f445-4005-9422-5eb96d7632b4)
+
+![lighmode](https://github.com/user-attachments/assets/091ce356-51e8-447c-a8ab-adcfb5d4da07)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
